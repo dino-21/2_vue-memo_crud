@@ -28,5 +28,5 @@ npm run dev
 npm run build
 ```
 < vue 3와 스프링 부트로 시작하는  웹 개발 철저 입문 >
-p158 - p85    crud
+p158 - p185    crud
 스토리지 서비스 구현
